@@ -1,0 +1,37 @@
+
+/* ---------------------------------------- HEADER CSS START------------------------------------------------------------- */
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.logo{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 10%;
+    left: 8%;
+    background-color: rgb(1, 49, 51);
+}
+
+.logo2{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 12%;
+    left: 9%;
+    background-color: rgba(204, 204, 204, 0.7);
+    background-blend-mode: lighten;
+}
+
+.text_header{
+    color: orange;
+    font-style: bold;
+    font-size: 30;
+    margin-left: 17%;
+    margin-top: 12%;
+}
+
+.text_header_2{
+    font-size: 30;
+
+}
